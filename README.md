@@ -17,4 +17,4 @@ Overall the analysis can be split into:
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
 4. Microbial profiling, DNA damage estimation, taxonomic refinement and filtering, functional profiling... **MATEU**
 5. Metagenomic barcode analysis: https://github.com/nicolaavogel/meta_barcode_analysis/tree/fc9b515c635e932777a79414a2b4f56eef78fa02
-6. Taxonomic overmatching analysis for Rosaceae and Poaceae taxa: **NICOLA**
+6. Taxonomic overmatching analysis for Rosaceae and Poaceae taxa: https://github.com/nicolaavogel/taxonomic_overmatching/tree/d3ccad5568ea91f09221835947ece556e3d5495e
