@@ -15,5 +15,6 @@ Overall the analysis can be split into:
 1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi **LINK**
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization **BUTTERFLY**
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
-4. Microbial profiling, DNA damage estimation, taxonomic refinement and filtering, functional profiling... **MATEU**https://github.com/nicolaavogel/meta_barcode_analysis/tree/68975e93842f820f9f79af374253ad5da1f5f480https://github.com/nicolaavogel/meta_barcode_analysis/commit/68975e93842f820f9f79af374253ad5da1f5f480
+4. Microbial profiling, DNA damage estimation, taxonomic refinement and filtering, functional profiling... **MATEU**
+5. Metagenomic barcode analysis: https://github.com/nicolaavogel/meta_barcode_analysis/tree/68975e93842f820f9f79af374253ad5da1f5f480
 6. Taxonomic overmatching analysis for Rosaceae and Poaceae taxa: **NICOLA**
