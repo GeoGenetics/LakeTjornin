@@ -15,6 +15,6 @@ Overall the analysis can be split into:
 1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi **LINK**
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization **BUTTERFLY**
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
-4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: https://github.com/mateumenendez/tjornin-microbial-analysis/tree/65c95ebeb1b53955951ec93341fec82ac0cfc14d
+4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: https://github.com/mateumenendez/tjornin-microbial-analysis/tree/2e5329231f4b42ad8d0668e50e94a81fcf1431da
 5. Metagenomic barcode analysis: https://github.com/nicolaavogel/meta_barcode_analysis/tree/fc9b515c635e932777a79414a2b4f56eef78fa02
 6. Taxonomic overmatching analysis for Rosaceae and Poaceae taxa: https://github.com/nicolaavogel/taxonomic_overmatching/tree/d3ccad5568ea91f09221835947ece556e3d5495e
