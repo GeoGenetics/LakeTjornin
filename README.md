@@ -17,7 +17,7 @@ Overall the analysis can be split into:
     - [Config](1.Holi/config.yaml)
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization [here](https://github.com/GeoGenetics/Tjornin_Butterfly)
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
-4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: https://github.com/mateumenendez/tjornin-microbial-analysis/tree/2e5329231f4b42ad8d0668e50e94a81fcf1431da
+4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: [here](https://github.com/mateumenendez/tjornin-microbial-analysis/tree/21ea3018d141afc635a676572376c3965160eb5f)
 5. Metagenomic barcode analysis: https://github.com/nicolaavogel/meta_barcode_analysis/tree/fc9b515c635e932777a79414a2b4f56eef78fa02
 6. Taxonomic overmatching analysis for Rosaceae and Poaceae taxa: https://github.com/nicolaavogel/taxonomic_overmatching/tree/d3ccad5568ea91f09221835947ece556e3d5495e
 7. Barley type analysis [here](https://github.com/abigailramsoe/barley/tree/main)
