@@ -13,7 +13,7 @@ We here document the computational and analytical workflows supporting the prepr
 
 Overall the analysis can be split into:
 1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi
-    - [Commit](https://github.com/GeoGenetics/aeDNA/releases/tag/v0.6.4)
+    - Holi workflow [code](https://github.com/GeoGenetics/aeDNA/tree/v0.6.4) with modules [ngs-trim](https://github.com/GeoGenetics/ngs-trim/tree/v0.4.4), [ngs_derep](https://github.com/GeoGenetics/ngs-derep/tree/v0.4.4), and [ngs-taxon](https://github.com/GeoGenetics/ngs-taxon/tree/v0.6.4).
     - [Config](1.Holi/config.yaml)
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization **BUTTERFLY**
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
