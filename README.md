@@ -12,7 +12,9 @@ bioRxiv 2025.10.08.681091; doi: https://doi.org/10.1101/2025.10.08.681091
 We here document the computational and analytical workflows supporting the preprint: from raw sequence data through bioinformatic processing, statistical analyses, visualisations, and interpretation. The pipeline is designed to be transparent, reproducible, and modular. The analysis consists of a series of different workflows in which the link to the respective commit versions can be found below.
 
 Overall the analysis can be split into:
-1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi **LINK**
+1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi
+    - [Commit](https://github.com/GeoGenetics/aeDNA/releases/tag/v0.6.4)
+    - [Config](1.Holi/config.yaml)
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization **BUTTERFLY**
 3. Haplogroup determination using phylogenetic placement **ZIHAO/YUCHENG**
 4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: https://github.com/mateumenendez/tjornin-microbial-analysis/tree/2e5329231f4b42ad8d0668e50e94a81fcf1431da
