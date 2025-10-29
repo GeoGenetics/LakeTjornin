@@ -14,7 +14,7 @@ We here document the computational and analytical workflows supporting the prepr
 Overall the analysis can be split into:
 1. Raw read trimming, QC, deduplication, mapping, taxonomic profiling and DNA damage estimation using Holi
     - Holi workflow [code](https://github.com/GeoGenetics/aeDNA/tree/v0.6.4) with modules [ngs-trim](https://github.com/GeoGenetics/ngs-trim/tree/v0.4.4), [ngs_derep](https://github.com/GeoGenetics/ngs-derep/tree/v0.4.4), and [ngs-taxon](https://github.com/GeoGenetics/ngs-taxon/tree/v0.6.4).
-    - [Config](1.Holi/config.yaml)
+    - [Workflow config](1.Holi/config.yaml) used for analyses.
 2. Taxonomic refinement, DNA Age/Damage models, filtering, and visualization [here](https://github.com/GeoGenetics/Tjornin_Butterfly)
 3. Haplogroup determination using phylogenetic placement of animal mitochondrial DNA [here](https://github.com/YCWangLab/Tjornin_mitochondrial_placement/tree/main)
 4. Microbial taxonomic profiling, diversity analyses, source-tracking approaches and functional profiling: [here](https://github.com/mateumenendez/tjornin-microbial-analysis/tree/21ea3018d141afc635a676572376c3965160eb5f)
